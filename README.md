@@ -17,4 +17,4 @@ para visualização do projeto acesse link
 
 ```shell script
 https://juancamargo01.github.io/netflix/
-´´´
+```
