@@ -5,3 +5,11 @@
     }
 
 }
+
+.filme-principal .descricao{
+    margin-bottom: 5px;
+}
+
+.filme-principal .container{
+    width: 98%;
+}
