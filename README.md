@@ -4,7 +4,7 @@
 
  home page netiflix
 
- <h1>Tecnologia usadas</h1>
+ <h3>Tecnologia usadas</h3>
 
  - conceitos basicos e avançados de html css javascript.
  - bootstrap
