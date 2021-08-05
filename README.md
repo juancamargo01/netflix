@@ -15,7 +15,6 @@
 
 para visualização do projeto acesse link
 
-´´´script
+```shell script
 https://juancamargo01.github.io/netflix/
-
-´´
+´´´
